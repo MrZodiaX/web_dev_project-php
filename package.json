@@ -1,2 +1,3 @@
 {
+  "start": "node index.php"
 }
